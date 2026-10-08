@@ -36,29 +36,37 @@ My work focuses on translating complex business requirements into practical, mai
 
 **Focus Areas:** Database Optimization · System Integrations · Workflow Automation · Application Design
 
-
 ---
 
-## 💼 What I Work On
+## 🚀 Featured Engineering Work
 
-### Enterprise Application Development
+A selection of the types of applications and solutions I've contributed to throughout my professional career.
 
-- Develop and maintain internal applications supporting business operations.
-- Build role-based messaging, notification, and workflow functionality.
-- Design database-driven reporting and automation tools.
-- Integrate applications with external services and enterprise systems.
+### 🏢 Enterprise Application Development
 
-### Customer & Partner Platforms
+Develop and maintain business-critical web applications that support internal operations, communication, and collaboration across multiple departments.
 
-- Build and maintain web applications for homeowners and business partners.
-- Develop interfaces that simplify complex workflows.
-- Improve application performance, usability, and maintainability.
+**Key Areas:** Full-Stack Development · Application Architecture · Workflow Automation · User Experience
 
----
+### 🌐 Customer & Partner Platforms
 
-## 🔒 About My Work
+Build and enhance web-based platforms that provide customers and business partners with access to services, information, and interactive tools.
 
-Most of my professional projects are maintained in private, company-owned repositories. This profile highlights my engineering experience and independently developed public projects.
+**Key Areas:** Web Portals · Responsive Design · Data Management · API Integration
+
+### 🔗 Systems Integration & Data Engineering
+
+Develop integrations between applications, databases, and third-party services to improve data accessibility, reliability, and operational efficiency.
+
+**Key Areas:** REST APIs · SQL Optimization · Data Synchronization · Backend Development
+
+### 📊 Reporting & Business Automation
+
+Create data-driven tools, reporting solutions, and automated workflows that simplify complex processes and support business decision-making.
+
+**Key Areas:** Database Queries · Data Processing · Reporting · Process Optimization
+
+> Professional work is summarized at a high level to respect company confidentiality.
 
 ---
 
